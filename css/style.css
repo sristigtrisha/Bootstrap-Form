@@ -1,0 +1,14 @@
+.box{
+    background-color: #F1D2E7;
+    height: 100px;
+    margin-bottom: 10px;
+    border: 1px solid;
+}
+.h_custom{
+    height: 400px;
+    background-color: #FFE5E5;
+    margin: 20px;
+}
+p{
+    text-align: center;
+}
